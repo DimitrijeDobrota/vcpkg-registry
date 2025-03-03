@@ -1,3 +1,8 @@
 {
-  "default": {}
+  "default": {
+    "cemplate": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    }
+  }
 }
