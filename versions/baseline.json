@@ -7,6 +7,10 @@
     "poafloc": {
       "baseline": "1.2.0",
       "port-version": 0
+    },
+    "stamen": {
+      "baseline": "1.3.0",
+      "port-version": 0
     }
   }
 }
