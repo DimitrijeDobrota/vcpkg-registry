@@ -3,6 +3,10 @@
     "cemplate": {
       "baseline": "0.2.0",
       "port-version": 0
+    },
+    "poafloc": {
+      "baseline": "1.2.0",
+      "port-version": 0
     }
   }
 }

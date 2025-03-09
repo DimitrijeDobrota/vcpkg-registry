@@ -1,0 +1,17 @@
+{
+  "name": "poafloc",
+  "version": "1.2.0",
+  "description": "Parser Of Arguments For Lines Of Commands",
+  "homepage": "https://git.dimitrijedobrota.com/poafloc.git",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
