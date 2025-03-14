@@ -1,7 +1,7 @@
 {
   "default": {
     "alec": {
-      "baseline": "0.1.17",
+      "baseline": "0.1.18",
       "port-version": 0
     },
     "cemplate": {
