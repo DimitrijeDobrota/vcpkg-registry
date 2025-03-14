@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL git://git.dimitrijedobrota.com/stamen.git
-    REF 5694a5e39b554a1c6ba15846ea1f47d8f42f8a9b
+    REF 8a69123b6fdd0d7a58517c5e5e2afb30406ba1ff
     HEAD_REF master
 )
 
