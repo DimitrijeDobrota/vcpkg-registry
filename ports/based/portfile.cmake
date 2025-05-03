@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL git://git.dimitrijedobrota.com/based.git
-    REF 523b08ac6fe91c3418e5613ccaee506a7c4aa781
+    REF e23e7e98862df4b47ff361e3151c685104e45ca1
     HEAD_REF master
 )
 
