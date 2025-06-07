@@ -1,6 +1,6 @@
 {
   "name": "alec",
-  "version": "0.1.18",
+  "version": "0.2.0",
   "description": "Simple C++ template engine",
   "homepage": "https://git.dimitrijedobrota.com/alec.git",
   "license": "MIT",

@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL git://git.dimitrijedobrota.com/alec.git
-    REF 4f09fd258caac125fa751b1d4864d1276c77076e
+    REF b02e0ba34e3a27238bfa660bedf1e87fb6313f15
     HEAD_REF master
 )
 
