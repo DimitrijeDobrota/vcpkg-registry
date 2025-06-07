@@ -1,6 +1,6 @@
 {
   "name": "poafloc",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "Parser Of Arguments For Lines Of Commands",
   "homepage": "https://git.dimitrijedobrota.com/poafloc.git",
   "license": "MIT",

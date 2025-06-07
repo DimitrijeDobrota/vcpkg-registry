@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL git://git.dimitrijedobrota.com/poafloc.git
-    REF 5c4cf9d0404e3ccdfd69206e6d9faeef1203666a
+    REF 0f9c5e77e03a28053d5f558a079600a22d4e709c
     HEAD_REF master
 )
 
