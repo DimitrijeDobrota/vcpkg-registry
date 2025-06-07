@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL git://git.dimitrijedobrota.com/hemplate.git
-    REF 71dee1ad15475c166cb7e23e7d86e93428ed0ec1
+    REF 5a651f07da4b342dd11eabd93352dc7569ebaab8
     HEAD_REF master
 )
 
