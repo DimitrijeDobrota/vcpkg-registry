@@ -12,6 +12,10 @@
       "baseline": "0.3.0",
       "port-version": 0
     },
+    "git2wrap": {
+      "baseline": "0.3.0",
+      "port-version": 0
+    },
     "hemplate": {
       "baseline": "0.4.1",
       "port-version": 0
